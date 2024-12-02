@@ -35,5 +35,5 @@ Smooth Animation Transitions: The transitions between animations are managed usi
 - Set up transitions between these animation states:
          Idle → Run → Walk → Idle (for looping between animations).
 - Modify transition conditions to control when each animation is triggered (e.g., using parameters like Speed).
-
+![walk](https://github.com/user-attachments/assets/ea4e044f-acfa-46a9-a95f-186bb281cdec)
 
